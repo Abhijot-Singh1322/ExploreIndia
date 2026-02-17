@@ -1,3 +1,6 @@
+About:-
+Built using pure HTML & CSS for a school guide project. No AI tools were used to generate code, all HTML and CSS is handcreafted. Text content was researched using online sources.
+
 India Information Website:-
 
 This website is a six-page project that highlights the culture, heritage, and global significance of India. Each page focuses on a different aspect of the country, helping visitors learn about India’s most famous features and contributions.
